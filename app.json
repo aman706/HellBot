@@ -61,7 +61,7 @@
     },
     "buildpacks": [
         {
-            "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
+            "url": "https://git.ffmpeg.org/ffmpeg.git ffmpeg"
         },
         {
             "url": "https://github.com/heroku/heroku-buildpack-chrome-for-testing"
