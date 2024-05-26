@@ -27,7 +27,7 @@ telegraph
 tgcrypto
 Unidecode
 wikipedia
-git+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+ffmpeg
 ffprobe
 yt-dlp
 
