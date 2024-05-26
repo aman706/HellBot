@@ -27,7 +27,7 @@ telegraph
 tgcrypto
 Unidecode
 wikipedia
-ffmpeg
+git+https://git.ffmpeg.org/ffmpeg.git ffmpeg
 ffprobe
 yt-dlp
 
