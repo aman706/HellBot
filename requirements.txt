@@ -30,3 +30,4 @@ wikipedia
 ffmpeg
 ffprobe
 yt-dlp @ git+https://github.com/HellBoy-OP/yt-dp-fork
+git+https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest
