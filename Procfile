@@ -1,1 +1,1 @@
-worker: bash setup
+web: bash setup
