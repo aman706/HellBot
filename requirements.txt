@@ -30,4 +30,8 @@ wikipedia
 ffmpeg
 ffprobe
 yt-dlp
-
+area-detector-handlers
+bluesky
+event-model >=1.13.0b4  # redundant to databroker
+databroker >=1.0.0b4
+pyzmq
