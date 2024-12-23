@@ -24,7 +24,7 @@ requests
 selenium
 speedtest-cli
 telegraph
-tgcrypto>=1.2.3,<2.0
+tgcrypto>=1.2.5,<2.0
 Unidecode
 wikipedia
 ffmpeg
